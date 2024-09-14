@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "Stalker Extensions",
+  "description": "A stalker that track the changes in the browser :D",
   "version": "1.0",
 "content_scripts":[
 {
